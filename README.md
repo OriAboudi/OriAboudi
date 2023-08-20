@@ -1,4 +1,10 @@
 <h1 align="center">Hi Everyone 👋, I'm Ori Aboudi</h1>
+
+
+
+<div align="center"> <img width="900" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif"> </div>
+
+
 <h3 align="center">IDF Full Stack Dev Apprentice: Building the Future of Tech, One Stack at a Time 🚀🌐</h3>
 
 
